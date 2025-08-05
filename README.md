@@ -1,4 +1,4 @@
-## Olá, sou l2qqz
+## Olá, sou 7xt6
 - Programador em NodeJs, Html, Css, Python, C++, C#
 - Estudando engenharia social
 
