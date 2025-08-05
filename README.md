@@ -1,13 +1,12 @@
 ## Olá, sou 7xt6
-- Programador em NodeJs, Html, Css, Python, C++, C#
-- Estudando engenharia social
+- Programador em NodeJs, Html, Css, Python, e aprendendo C++
+
 
 ## Olá, sou l2qqz, programador de bots do discord
 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="l2qqz-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="l2qqz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="l2qqz-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="l2qqz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="l2qqz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
